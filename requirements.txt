@@ -1,0 +1,11 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+pymilvus==2.3.4
+langchain==0.0.350
+langchain-community==0.0.1
+sentence-transformers==2.2.2
+PyMuPDF==1.23.8
+python-dotenv==1.0.0
+numpy==1.24.3
+pydantic==2.5.0
