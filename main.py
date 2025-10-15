@@ -3,7 +3,7 @@ VMware 운영 가이드 RAG 파이프라인 FastAPI 애플리케이션
 PDF 문서 업로드, 처리, 벡터 저장 및 유사도 검색 API를 제공합니다.
 """
 
-import os
+import os 
 from typing import List, Dict, Any
 from fastapi import FastAPI, UploadFile, File, HTTPException, Depends
 from fastapi.middleware.cors import CORSMiddleware
